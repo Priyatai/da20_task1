@@ -1,0 +1,7 @@
+customer_id,first_name,last_name,email,phone_number,address,registration_date
+1,Sam,Wilson,sam.wilson@email.com,555-111-2222,"123 Main St, Anytown, USA",2025-08-05
+2,Jane,Austen,jane.austen@email.com,555-333-4444,"456 Oak Ave, Someplace, USA",2025-08-05
+3,Peter,Parker,peter.parker@email.com,555-555-6666,"789 Elm Rd, Somewhere, USA",2025-08-05
+4,Emma,Watson,emma.watson@email.com,555-777-8888,,2025-08-05
+5,Leo,DiCaprio,leo.dicaprio@email.com,,"101 Maple Ln, Elsewhere, USA",2025-08-05
+6,Mila,Kunis,mila.kunis@email.com,555-999-0000,"202 Birch Pl, Noplace, USA",2025-08-05
