@@ -1,0 +1,7 @@
+patient_id,first_name,last_name,date_of_birth,gender,phone_number,email,address,admission_date
+1,Robert,Miller,1995-08-21,Male,555-111-9999,robert.miller@email.com,"123 Oak St, Cityville",2025-08-05 00:00:00
+2,Linda,Garcia,1988-02-14,Female,555-222-8888,linda.garcia@email.com,"456 Pine Ave, Townsville",2025-08-05 00:00:00
+3,Michael,Harris,2001-11-30,Male,555-333-7777,, "789 Birch Rd, Villageton",2025-08-05 00:00:00
+4,Jessica,Clark,1976-06-05,Female,555-444-6666,jessica.clark@email.com,"101 Maple Ln, Hamletburg",2025-08-05 00:00:00
+5,Daniel,Lewis,1999-04-12,Male,555-555-5555,daniel.lewis@email.com,"202 Cedar Pl, Suburbia",2025-08-05 00:00:00
+6,Patricia,Lee,1965-10-25,Female,555-666-4444,,"303 Elm Way, Metropolis",2025-08-05 00:00:00
