@@ -1,0 +1,7 @@
+fruit_id,fruit_name,color,taste,is_seasonal,harvest_date
+1,Apple,Red,Sweet,TRUE,2025-09-15
+2,Banana,Yellow,Sweet,FALSE,2025-01-20
+3,Lemon,Yellow,Sour,TRUE,2025-07-01
+4,Grape,Purple,Sweet,TRUE,2025-08-10
+5,Strawberry,Red,Sweet,TRUE,2025-06-25
+6,Avocado,Green,Creamy,FALSE,2025-03-05
